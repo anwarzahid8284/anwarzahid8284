@@ -58,9 +58,16 @@ Programmer specialized in 𝐚𝐧𝐝𝐫𝐨𝐢𝐝 𝐝𝐞𝐯𝐞𝐥𝐨�
 7. Translator & Dictionary
 8. Online Portal App
 
-#### Skills: Kotlin  / Java / Python / PHP 
 
-- 🔭 I’m currently working on this page. 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anwarzahid8284)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anwarzahid8284)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anwarzahid8284&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anwarzahid8284)  
+
+![Profile views](https://gpvc.arturio.dev/anwarzahid8284)   
 
 
 

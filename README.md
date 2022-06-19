@@ -66,7 +66,12 @@ Programmer specialized in 𝐚𝐧𝐝𝐫𝐨𝐢𝐝 𝐝𝐞𝐯𝐞𝐥𝐨�
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anwarzahid8284)  
 
-![Profile views](https://gpvc.arturio.dev/anwarzahid8284)   
+![Profile views](https://gpvc.arturio.dev/anwarzahid8284)
+
+<br/>
+
+### Connect with me:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anwarzahid8284/)  
 
 
 

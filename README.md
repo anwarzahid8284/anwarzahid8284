@@ -8,7 +8,7 @@ As someone who is always passionate about tech & life. I love to develop 𝐚�
 
 Programmer specialized in 𝐚𝐧𝐝𝐫𝐨𝐢𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 using multiple tools, 𝐟𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬, and 𝐥𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬. I pay a lot of attention to detail to generate the best products using the latest technologies/concepts and the skills that I have.
 
-Programing languages:
+#### Programing languages:
 1. Java
 2. Kotlin
 3. Php
@@ -32,14 +32,14 @@ Programing languages:
 16. Google Play Billing (In App Purchase)
 
 
-API/Web Service:
+#### API/Web Service:
 1. Laravel for Rest full API using VSCode
 2. Testing API using Postman. 
 3. Bracket/VS Code. 
 4. Xammp Server. 
 5. PHP 
 
-IDE/Tools:
+#### IDE/Tools:
 1. Android studio
 2. Intellij
 3. Bracket
@@ -48,15 +48,17 @@ IDE/Tools:
 6. Postman
 7. VS Code
 
-Projects: Mostly working on utility Apps 
+#### Projects: Mostly working on utility Apps 
 1. Music Player
 2. Phone Cleaner
 3. Always On Display
 4. Social Media Backup
 5. CV Maker
-6. 
+6. Call announcer & flash
+7. Translator & Dictionary
+8. Online Portal App
 
-Skills: Kotlin  / Java / Python / PHP 
+#### Skills: Kotlin  / Java / Python / PHP 
 
 - 🔭 I’m currently working on this page. 
 

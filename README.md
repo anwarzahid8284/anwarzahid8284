@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**anwarzahid8284/anwarzahid8284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Anwar Zahid
+#### Developer
+I'm Anwar Zahid from Pakistan, I am an Android Apps developer with 2.5 years of experience creating different Android Apps Using the latest technologies/concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Kotlin  / Java / PHP / Python 
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+

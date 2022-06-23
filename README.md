@@ -59,6 +59,7 @@ Programmer specialized in 𝐚𝐧𝐝𝐫𝐨𝐢𝐝 𝐝𝐞𝐯𝐞𝐥𝐨�
 8. Online Portal App
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anwarzahid8284)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anwarzahid8284&show_icons=true)  

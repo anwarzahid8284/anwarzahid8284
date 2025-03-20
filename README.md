@@ -57,6 +57,10 @@ Programmer specialized in 𝐚𝐧𝐝𝐫𝐨𝐢𝐝 𝐝𝐞𝐯𝐞𝐥𝐨�
 6. Call announcer & flash
 7. Translator & Dictionary
 8. Online Portal App
+9. offline translator
+10. Applocker
+11. Screen Mirroring
+12. CU Online (comsats) 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anwarzahid8284)](https://github.com/anuraghazra/github-readme-stats)

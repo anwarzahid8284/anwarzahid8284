@@ -1,83 +1,150 @@
+<p align="center">
+  <img src="image.jpg" alt="Anwar Zahid Banner" width="100%" />
+</p>
 
+<h1 align="center">👋 Hi, I'm Anwar Zahid</h1>
+<h3 align="center">💻 Native Android Developer | 💡 Tech Enthusiast | 🚀 Lifelong Learner</h3>
 
+---
 
-![](image.jpg)
-# Anwar Zahid
-## Android Developer
-As someone who is always passionate about tech & life. I love to develop 𝐚𝐧𝐝𝐫𝐨𝐢𝐝 𝐚𝐩𝐩𝐬 and have ever since been a self-taught software developer and also an unstopped learner. I have evolved into advanced techniques of android developer career path and love working with android tools and technologies.
+## 👨‍💼 About Me
 
-Programmer specialized in 𝐚𝐧𝐝𝐫𝐨𝐢𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 using multiple tools, 𝐟𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬, and 𝐥𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬. I pay a lot of attention to detail to generate the best products using the latest technologies/concepts and the skills that I have.
+I'm a **Native Android Developer** with over **4 years of industry experience**, passionate about crafting performant and scalable mobile apps. I specialize in **clean architecture**, **modularized codebases**, and writing **maintainable Android applications** using modern tools like **Hilt**, **Kotlin Coroutines & Flows**, and **Jetpack components**.
 
-#### Programing languages:
-1. Java
-2. Kotlin
-3. Php
+I’ve built a range of **utility, communication, and productivity apps**, ensuring clean UX, efficient performance, and seamless backend integration — including **MQTT** for IoT scenarios.
 
-#### Android Design patterns and Concept:
-1. MVVM
-2. MVC
-3. View Binding
-4. Jetpack Navigation component 
-5. Activity/Fragments/Services/Asynctask/ Executer/Handler/Threading/Broadcast Receiver. 
-6. Room/Sqlite/Firebase/FCM
-7. Git and Github 
-8.  Retrofit/Volley/Okhttpclint/Glide/Picasso 
-9.  Remote Data via Rest API and JSON. 
-10. Kotlin coroutines 
-11. Asynchronous Programming.
-12. Data Binding 
-13. Working on dependency injection 💉 with  Koin Framework.
-14. Arcore Android 
-15. Ad integration (AdMob and Facebook) 
-16. Google Play Billing (In App Purchase)
+---
 
+## 🛠️ Skill Set
 
-#### API/Web Service:
-1. Laravel for Rest full API using VSCode
-2. Testing API using Postman. 
-3. Bracket/VS Code. 
-4. Xammp Server. 
-5. PHP 
+### 💬 Programming Languages
+- **Kotlin** · **Java** · **PHP**
 
-#### IDE/Tools:
-1. Android studio
-2. Intellij
-3. Bracket
-4. Xammp
-5. Visual studio
-6. Postman
-7. VS Code
+---
 
-#### Projects: Mostly working on utility Apps 
-1. Music Player
-2. Phone Cleaner
-3. Always On Display
-4. Social Media Backup
-5. CV Maker
-6. Call announcer & flash
-7. Translator & Dictionary
-8. Online Portal App
-9. offline translator
-10. Applocker
-11. Screen Mirroring
-12. CU Online (comsats) 
+### 📱 Android Core
+- **Activities**, **Fragments**, **Broadcast Receivers**
+- **Services**, **Handlers**, **AsyncTask**, **Executors**
+- **ViewBinding**, **DataBinding**, **Jetpack Navigation**
+- **Material Design**, **Jetpack Compose** (basic)
 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anwarzahid8284)](https://github.com/anuraghazra/github-readme-stats)
+### 🧠 Architecture & Design Patterns
+- **Clean Architecture**
+- **MVVM**, **MVC**
+- **Single Source of Truth (SSOT)**
+- **Multi-Module Architecture**
+- **Repository Pattern**, **UseCase Layer Separation**
 
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anwarzahid8284&show_icons=true)  
+### 📦 Dependency Injection
+- **Hilt** 💉
+- **Koin**
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anwarzahid8284)  
+---
 
-![Profile views](https://gpvc.arturio.dev/anwarzahid8284)
+### 🔄 Asynchronous & Reactive Programming
+- **Kotlin Coroutines**
+- **Coroutine Flows**
+- **Threading**, **Executors**, **LiveData**
 
-<br/>
+---
 
-### Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anwarzahid8284/)  
+### 📡 Networking & APIs
+- **Retrofit**, **OkHttp**, **Volley**
+- **RESTful APIs**
+- **MQTT** (for real-time communication)
+- **Postman**, **Laravel**
 
+---
 
+### 🗂️ Data Storage
+- **Room**
+- **SQLite**
+- **Firebase Firestore/Realtime DB**
 
+---
 
+### 🖼️ Media & Images
+- **Glide**
+- **Picasso**
 
+---
+
+### 💰 Monetization & Ads
+- **Google Play Billing (In-App Purchases)**
+- **Ad Networks:**
+  - **AdMob**
+  - **Facebook Ads**
+- **Ad Mediation Platforms:**
+  - **AppLovin**
+  - **Liftoff**
+
+---
+
+### 🛠️ Tools & IDEs
+- **Android Studio**
+- **IntelliJ IDEA**
+- **Visual Studio Code**
+- **Brackets**
+- **XAMPP**
+- **Postman**
+- **Git**, **GitHub**
+
+---
+
+## 🚀 Project Highlights
+
+> Focused on building real-world utility apps for productivity and smart usage.
+
+- 🎵 Music Player  
+- 🚀 Phone Cleaner  
+- 🌙 Always On Display  
+- 🗃️ Social Media Backup  
+- 📄 CV Maker  
+- 📢 Call Announcer & Flash  
+- 🌍 Translator & Dictionary  
+- 🏫 Online Portal App  
+- 🌐 Offline Translator  
+- 🔒 App Locker  
+- 📺 Screen Mirroring  
+- 🎓 CU Online (COMSATS Portal)
+
+---
+
+## 📊 GitHub Analytics
+
+### 🧠 Language Usage
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarzahid8284&layout=donut&theme=radical&hide_border=true&langs_count=8" width="60%" />
+</p>
+
+### ⚡ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anwarzahid8284&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=anwarzahid8284&theme=radical&hide_border=true" width="48%" />
+</p>
+
+### 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anwarzahid8284&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anwarzahid8284/">
+    <img src="https://img.shields.io/badge/-Anwar%20Zahid-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/anwarzahid8284">
+    <img src="https://img.shields.io/github/followers/anwarzahid8284?label=Follow&style=social" />
+  </a>
+</p>
+
+---
+
+> _“Stay curious. Keep building. Never stop learning.”_ 💡

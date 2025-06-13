@@ -9,9 +9,23 @@
 
 ## 👨‍💼 About Me
 
-I'm a **Native Android Developer** with over **4 years of industry experience**, passionate about crafting performant and scalable mobile apps. I specialize in **clean architecture**, **modularized codebases**, and writing **maintainable Android applications** using modern tools like **Hilt**, **Kotlin Coroutines & Flows**, and **Jetpack components**.
+I'm a **Native Android Developer** with **more than 4 years of industry experience**, passionate about crafting performant and scalable mobile apps. I specialize in **clean architecture**, **modularized codebases**, and writing **maintainable Android applications** using modern tools like **Hilt**, **Kotlin Coroutines & Flows**, and **Jetpack components**.
 
 I’ve built a range of **utility, communication, and productivity apps**, ensuring clean UX, efficient performance, and seamless backend integration — including **MQTT** for IoT scenarios.
+
+---
+
+## 📚 Part-Time Learning
+
+Alongside Android development, I'm actively investing time in learning **cutting-edge technologies** to stay ahead in the ever-evolving tech landscape. My current focus areas include:
+
+- 📊 **Data Science**
+- 🤖 **Machine Learning**
+- 🧠 **Deep Learning**
+- 📈 **Statistics**
+- 🐍 **Python Programming**
+
+I believe continuous learning is key to building intelligent and innovative solutions — and I’m excited to blend mobile development with AI-powered experiences in the near future.
 
 ---
 

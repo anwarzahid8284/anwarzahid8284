@@ -32,7 +32,7 @@ I believe continuous learning is key to building intelligent and innovative solu
 ## 🛠️ Skill Set
 
 ### 💬 Programming Languages
-- **Kotlin** · **Java** · **PHP**
+- **Kotlin** · **Java**
 
 ---
 
@@ -70,7 +70,7 @@ I believe continuous learning is key to building intelligent and innovative solu
 - **Retrofit**, **OkHttp**, **Volley**
 - **RESTful APIs**
 - **MQTT** (for real-time communication)
-- **Postman**, **Laravel**
+- **Postman**
 
 ---
 
@@ -125,6 +125,7 @@ I believe continuous learning is key to building intelligent and innovative solu
 - 🔒 App Locker  
 - 📺 Screen Mirroring  
 - 🎓 CU Online (COMSATS Portal)
+- 
 
 ---
 

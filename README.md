@@ -125,7 +125,7 @@ Alongside Android development, I'm actively investing time in learning **cutting
 - 🧠 **Deep Learning**
 - 📈 **Statistics**
 - 🐍 **Python Programming**
-- 🍎 iOS Development (Swift and SwiftUI)
+- 🍎 **iOS Development (Swift and SwiftUI)**
 
 I believe continuous learning is key to building intelligent and innovative solutions — and I’m excited to blend mobile development with AI-powered experiences in the near future.
 

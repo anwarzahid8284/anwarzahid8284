@@ -3,13 +3,13 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Anwar Zahid</h1>
-<h3 align="center">💻 Native Android Engineer | 💡 Tech Enthusiast | 🚀 Lifelong Learner</h3>
+<h3 align="center">💻 Sr. Native Android Engineer | 💡 Tech Enthusiast | 🚀 Lifelong Learner</h3>
 
 ---
 
 ## 👨‍💼 About Me
 
-I'm a **Native Android Developer** with **more than 4 years of industry experience**, passionate about crafting performant and scalable mobile apps. I specialize in **clean architecture**, **modularized codebases**, and writing **maintainable Android applications** using modern tools like **Hilt**, **Kotlin Coroutines & Flows**, and **Jetpack components**.
+I'm a **Native Android Developer** with **more than 4 years of industry experience**, passionate about scalable performant and scalable mobile apps. I specialize in **clean architecture**, **modularized codebases**, and writing **maintainable Android applications** using modern tools like **Hilt**, **Kotlin Coroutines & Flows**, and **Jetpack components**.
 
 I’ve built a range of **utility, communication, and productivity apps**, ensuring clean UX, efficient performance, and seamless backend integration — including **MQTT** for IoT scenarios.
 

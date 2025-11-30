@@ -26,7 +26,7 @@ I’m a **Sr. Native Android Engineer** with 5 years of industry experience craf
 
 I have hands-on experience building production-ready features, optimizing performance, and developing intuitive, accessible UI/UX. My background includes integrating REST APIs, Retrofit, Room, Firebase, handling offline-first functionality, and leveraging the latest Jetpack libraries to ship robust, modern Android apps.
 
-I’m comfortable leading features end-to-end — from architecture planning to implementation — and I enjoy mentoring junior developers and collaborating effectively with designers, backend engineers, and product teams. My focus is always on **clean code, measurable impact, and long-term scalability apps**.
+I’m comfortable leading features end-to-end  from architecture planning to implementation  and I enjoy mentoring junior developers and collaborating effectively with designers, backend engineers, and product teams. My focus is always on **clean code, measurable impact, and long-term scalability apps**.
 
 ---
 

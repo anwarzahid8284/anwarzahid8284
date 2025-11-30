@@ -9,7 +9,7 @@
 
 ## 👨‍💼 About Me
 
-I’m a **Sr. Native Android Engineer** with 5 years of industery experience crafting scalable, maintainable, and performance-driven mobile applications. My expertise spans **Kotlin, Java, Jetpack Compose, MVVM, Clean Architecture, Coroutines, flows, and dependency injection using Hilt or Koin**.
+I’m a **Sr. Native Android Engineer** with 5 years of industry experience crafting scalable, maintainable, and performance-driven mobile applications. My expertise spans **Kotlin, Java, Jetpack Compose, MVVM, Clean Architecture, Coroutines, flows, and dependency injection using Hilt or Koin**.
 
 I have hands-on experience building production-ready features, optimizing performance, and developing intuitive, accessible UI/UX. My background includes integrating REST APIs, Retrofit, Room, Firebase, handling offline-first functionality, and leveraging the latest Jetpack libraries to ship robust, modern Android apps.
 

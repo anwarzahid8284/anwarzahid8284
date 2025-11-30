@@ -2,6 +2,19 @@
   <img src="image.jpg" alt="Anwar Zahid Banner" width="100%" />
 </p>
 
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
+  <!-- Platforms / Tools -->
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
 <h1 align="center">👋 Hi, I'm Anwar Zahid</h1>
 <h3 align="center">💻 Sr. Native Android Engineer | 💡 Tech Enthusiast | 🚀 Lifelong Learner</h3>
 
@@ -135,14 +148,8 @@ I believe continuous learning is key to building intelligent and innovative solu
 
 ## 📊 GitHub Analytics
 
-### 🧠 Language Usage
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarzahid8284&layout=donut&theme=radical&hide_border=true&langs_count=8" width="60%" />
-</p>
-
 ### ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anwarzahid8284&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=anwarzahid8284&theme=radical&hide_border=true" width="48%" />
 </p>
 

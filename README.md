@@ -9,9 +9,11 @@
 
 ## 👨‍💼 About Me
 
-I'm a **Native Android Developer** with **more than 4 years of industry experience**, passionate about scalable performant and scalable mobile apps. I specialize in **clean architecture**, **modularized codebases**, and writing **maintainable Android applications** using modern tools like **Hilt**, **Kotlin Coroutines & Flows**, and **Jetpack components**.
+I’m a **Sr. Native Android Engineer** with 5 years of industery experience crafting scalable, maintainable, and performance-driven mobile applications. My expertise spans **Kotlin, Java, Jetpack Compose, MVVM, Clean Architecture, Coroutines, flows, and dependency injection using Hilt or Koin**.
 
-I’ve built a range of **utility, communication, and productivity apps**, ensuring clean UX, efficient performance, and seamless backend integration — including **MQTT** for IoT scenarios.
+I have hands-on experience building production-ready features, optimizing performance, and developing intuitive, accessible UI/UX. My background includes integrating REST APIs, Retrofit, Room, Firebase, handling offline-first functionality, and leveraging the latest Jetpack libraries to ship robust, modern Android apps.
+
+I’m comfortable leading features end-to-end — from architecture planning to implementation — and I enjoy mentoring junior developers and collaborating effectively with designers, backend engineers, and product teams. My focus is always on **clean code, measurable impact, and long-term scalability apps**.
 
 ---
 

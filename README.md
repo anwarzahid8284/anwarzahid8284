@@ -22,11 +22,15 @@
 
 ## 👨‍💼 About Me
 
-I’m a **Sr. Native Android Engineer** with 5 years of industry experience crafting scalable, maintainable, and performance-driven mobile applications. My expertise spans **Kotlin, Java, Jetpack Compose, MVVM, Clean Architecture, Coroutines, flows, and dependency injection using Hilt or Koin**.
+I’m a **Senior Native Android Engineer** with 5 years of industry experience building scalable, maintainable, and high-performance Android applications. I specialize in creating clean architectures and intuitive user experiences that scale well over time.
 
-I have hands-on experience building production-ready features, optimizing performance, and developing intuitive, accessible UI/UX. My background includes integrating REST APIs, Retrofit, Room, Firebase, handling offline-first functionality, and leveraging the latest Jetpack libraries to ship robust, modern Android apps.
+My core expertise includes **Kotlin & Java, Jetpack Compose, MVVM, Clean Architecture, Coroutines & Flow, and dependency injection with Hilt and Koin**. I enjoy working with modern Android tools and Jetpack libraries to deliver robust, production-ready apps.
 
-I’m comfortable leading features end-to-end  from architecture planning to implementation  and I enjoy mentoring junior developers and collaborating effectively with designers, backend engineers, and product teams. My focus is always on **clean code, measurable impact, and long-term scalability apps**.
+I have strong hands-on experience integrating RESTful APIs using Retrofit, implementing offline-first solutions with Room, and leveraging Firebase for real-time features and analytics. **Performance optimization, code quality, and long-term maintainability are always top priorities in my work**.
+
+Beyond coding, I lead features end-to-end — from architectural planning to implementation and delivery while collaborating closely with **designers, marketing teams, publishers, backend engineers, and product stakeholders** to align technical execution with business and user goals.
+
+💡 What drives me: clean code, measurable impact, and building Android apps that are easy to maintain, scale, and evolve.
 
 ---
 

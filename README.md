@@ -15,8 +15,11 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Anwar Zahid</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36" /> Hi, I'm Anwar Zahid
+</h1>
 <h3 align="center">💻 Sr. Native Android Engineer | 💡 Tech Enthusiast | 🚀 Lifelong Learner</h3>
+
 
 ---
 

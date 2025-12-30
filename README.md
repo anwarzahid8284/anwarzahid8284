@@ -155,16 +155,6 @@ I believe continuous learning is key to building intelligent and innovative solu
 
 ## 📊 GitHub Analytics
 
-### ⚡ GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=anwarzahid8284&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues" width="100%" />
-
----
-
-### 🧩 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarzahid8284&layout=donut&theme=radical&hide_border=true" width="100%" />
-
----
-
 ### 📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anwarzahid8284&theme=tokyo-night&hide_border=true" width="100%" />
 
